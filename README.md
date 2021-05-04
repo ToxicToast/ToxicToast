@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Tom!  👋
+
+I'm currently a Lead Consultant / Frontend-Developer at CGI
 
 <!--
 **ToxicToast/ToxicToast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
