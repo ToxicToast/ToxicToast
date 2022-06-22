@@ -45,6 +45,7 @@
   <a href="https://gpvc.arturio.dev/toxictoast">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=toxictoast&show_icons=true&theme=radical" />
   </a>
+  <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxictoast&layout=compact&theme=radical" />
   </a>
