@@ -25,7 +25,7 @@
 
 🤍 Passionate about Frontend.
   
-🌱 Currently learning Spring Boot.
+🌱 Currently learning Spring Boot and Rust.
 
 <h2></h2>
 <h3 align="center"> Skills </h3>
