@@ -59,6 +59,6 @@
     <img src="https://cdn.iconscout.com/icon/free/png-64/twitter-44-125621.png" />
   </a>
 
-  <a href="https://discord.gg/y5pccZS2">
+  <a href="https://discord.gg/5SpfWaecvF">
     <img src="https://cdn.iconscout.com/icon/free/png-64/discord-3691244-3073764.png" />
   </a>
