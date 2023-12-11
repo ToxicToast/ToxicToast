@@ -21,7 +21,7 @@
 
 👩‍💻 Lead-Consultant at CGI.
 
-🤍 Passionate about Frontend.
+🤍 Passionate about Frontend, Docker and Kubernetes.
   
 🌱 Currently learning Golang and Flutter.
 
