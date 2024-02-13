@@ -23,7 +23,7 @@
 
 🤍 Passionate about Frontend, Docker and Kubernetes.
   
-🌱 Currently learning Golang and Flutter.
+🌱 Currently learning Jetpack Compose.
 
 <h2></h2>
 <h3 align="center"> Skills </h3>
