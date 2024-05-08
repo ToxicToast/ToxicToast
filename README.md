@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="150"/>
   <h2 align="center">Hello there, <br /> I'm Tom aka ToxicToast</h2>
-  <p>I write code for your entertainment - I'm a live streamer, software engineer, DevOps Enthusiast and Homelaber (Running my own Kubernetes Cluster atm)</p>
+  <p>I write code for your entertainment - I'm a live streamer, software developer, DevOps Enthusiast and Homelaber (Running my own Kubernetes Cluster atm)</p>
   <div>
     <a href="https://blog.toxictoast.de/">
       <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/>
