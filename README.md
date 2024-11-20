@@ -17,13 +17,13 @@
 
 <h3 align="center"> About me </h3>
 
-🔭 I’m currently working on my Home Automation System called "Azkaban" (Currently working on the Home-Inventory System)
+🔭 I’m currently working on my Home Automation System called "Azkaban"
 
 👩‍💻 Lead-Consultant at CGI.
 
 🤍 Passionate about Frontend, Docker and Kubernetes.
   
-🌱 Currently learning Golang and Jetpack Compose.
+🌱 Currently learning Golang.
 
 <h2></h2>
 <h3 align="center"> Skills </h3>
